@@ -5,3 +5,4 @@ spacy
 PyPDF2
 xlrd
 openpyxl
+downlload tesseract
