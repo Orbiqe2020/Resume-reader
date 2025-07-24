@@ -1,0 +1,7 @@
+pytesseract
+opencv-python
+pandas
+spacy
+PyPDF2
+xlrd
+openpyxl
